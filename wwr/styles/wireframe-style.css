@@ -8,5 +8,8 @@
     width: 100%;
     background-image: url('../../images/Me-in-front-of-tahiti-temple.jpg');
     background-repeat: no-repeat;
-    height: 1500px 
+    height: 1500px }
+    /* alt tag = this is an image of me in front of the temple
+#hero-image{
+    display: none;
 }
