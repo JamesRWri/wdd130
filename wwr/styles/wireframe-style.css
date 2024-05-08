@@ -7,4 +7,6 @@
 #hero-banner{
     width: 100%;
     background-image: url('../../images/Me-in-front-of-tahiti-temple.jpg');
+    background-repeat: no-repeat;
+    height: 1500px 
 }
