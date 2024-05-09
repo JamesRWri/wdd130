@@ -8,9 +8,8 @@
     width: 100%;
     background-image: url('../../images/Family\ rafting\ NY\ 1.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 1500px }
+    background-size: contain;
+    height: 600px }
     /* alt tag = this is an image of me in front of the temple */
 #hero-image{
     display: none;
