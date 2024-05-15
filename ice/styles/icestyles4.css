@@ -1,0 +1,36 @@
+body{
+    background-color: royalblue;
+}
+
+image{
+    max-width: 100%;
+    max-height: 100%;
+    size:50em;
+    display:block;
+}
+.top{
+    color: white;
+    text-align: center;
+}
+h1:hover{
+    color:black;
+}
+.list{
+    width:40%;
+    margin: 0 auto;
+}
+#heroimage{
+    width:30%;
+    display:block;
+    margin: 0 auto;
+}
+blockquote{
+    color:#fff;
+    font-size: 1.7em;
+    max-width: 300px;
+    margin:0 auto;
+}
+figcaption{
+    margin:0 auto;
+    text-align:center;
+}
