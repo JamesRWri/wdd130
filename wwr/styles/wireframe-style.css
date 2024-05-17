@@ -14,3 +14,15 @@
 #hero-image{
     display: none;
 }
+.column {
+    float: left;
+    width: 20%;
+    padding: 4px;
+    height:auto;
+  }
+  .row::after {
+    content: "Socials";
+    clear: both;
+    display: table;
+  }
+  
