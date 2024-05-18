@@ -11,15 +11,16 @@
 }
 #hero-banner{
     width: 100%;
-    background-image: url('/wwr/images/Family-rafting-NY-1.jpg');
+    background-image: url('/wwr/images/rafting-ny.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     height: 600px
 }
-    /* alt tag = Family rafting */
 #hero-image{
-    display: none;
+    width:60%;
+    display:none;
 }
+    /* alt tag = Family rafting */
 .column {
     float: left;
     width: 20%;
