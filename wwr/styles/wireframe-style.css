@@ -2,15 +2,21 @@
     width: 100px;
 }
 .first-menu a:link, .first-menu a:visited{
-    color: orange;
+    color: red;
+    text-align:center;
+    background-color:#38C7C7 ;
+}
+.first-menu a:hover{
+    background-color:#38C77F;
 }
 #hero-banner{
     width: 100%;
     background-image: url('/wwr/images/Family-rafting-NY-1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
-    height: 600px }
-    /* alt tag = this is an image of me in front of the temple */
+    height: 600px
+}
+    /* alt tag = Family rafting */
 #hero-image{
     display: none;
 }
@@ -19,10 +25,54 @@
     width: 20%;
     padding: 4px;
     height:auto;
+    text-align: center;
   }
   .row::after {
     content: "Socials";
     clear: both;
     display: table;
+    text-align: center;
+    margin:auto;
   }
-  
+  #content{
+    max-width:1600px;
+    margin: 0 auto;
+  }
+  #background{
+    height: 725px;
+  }
+  body {
+    background-color: #3880C7; 
+}
+    header {
+    background-color:#38C7C7;
+}
+nav a{
+    text-align: center;
+    text-decoration: none;
+}
+    nav a:hover {
+    background-color:#38C77F ;
+}
+footer{
+    background-color: #38C77F;
+}
+footer a{
+    text-align: center;
+    text-decoration: none;
+}
+footer p{
+    font-size: 1.2em;
+}
+footer p a:hover{
+    text-decoration:underline;
+}
+.dryoarlogo-img{
+    width:80px;
+}
+section{
+    text-align: center;
+}
+menu{
+    text-align:center;
+}
