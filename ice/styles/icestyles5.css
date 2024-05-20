@@ -1,0 +1,13 @@
+#banner-image{
+    display: inline;
+    width: 50%;
+    max-height:150px;
+    max-width:150px;
+    margin:2em 7.5em;
+    border-radius: 100px;
+    border-color: black;
+    border: 5px solid black;
+}
+#bottom{
+    background-color: grey;
+}
