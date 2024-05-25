@@ -27,20 +27,14 @@
     padding: 0px 100px 0px 100px;
 }
 #hero-banner{
-    width: 100%;
-    background-image: url('/wwr/images/New-York-rafting.jpg');
-    background-repeat: no-repeat;
-    background-size:1380px;
-    height: 600px;
-    block-size: 900px;
     margin: 0 auto;
     padding: 1px;
     border: 3px solid #38C77F;
     
 }
 #hero-image{
-    width:60%;
-    display:none;
+    width: 1256px;
+    height:950px;
 }
     /* alt tag = Family rafting */
 .column {
