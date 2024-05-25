@@ -28,9 +28,9 @@
 }
 #hero-banner{
     width: 100%;
-    background-image: url('/wwr/images/Family-rafting-NY-1.jpg');
+    background-image: url('/wwr/images/New-York-rafting.jpg');
     background-repeat: no-repeat;
-    background-size:1350px;
+    background-size:1380px;
     height: 600px;
     block-size: 900px;
     margin: 0 auto;
@@ -110,6 +110,7 @@ menu{
 }
 h1{
     text-align:center;
+    color:#38C7C7;
 }
 h2{
     margin:0;
