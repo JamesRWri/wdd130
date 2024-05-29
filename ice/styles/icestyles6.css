@@ -1,0 +1,30 @@
+h2{
+    color: red;
+    text-align:center;
+    padding:220px 0px 0px 0px;
+    letter-spacing: 10px;
+    font-size:80px;
+}
+.container{
+    margin:0 auto;
+    position:relative;
+}
+.img-container{
+    max-width:50px;
+    max-height:100px;
+    margin:0 auto;
+    position:relative;
+    z-index:0;
+}
+.container-grey{
+    width:500px;
+    height:500px;
+    background-color: grey;
+    position:relative;
+    z-index: 1;
+}
+h1{
+    font-size:120px;
+    position:absolute;
+    z-index:2;
+}
