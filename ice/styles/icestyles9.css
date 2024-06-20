@@ -1,0 +1,54 @@
+h2{
+    color:blue;
+}
+h3{
+    color:white;
+}
+p{
+    color: gray;
+}
+.text{
+    background-color:white;
+    display: grid;
+    grid-template-rows: 10fr 10fr;
+}
+.grid{
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 10fr 10fr 10fr;
+}
+body{
+    text-align: center;
+}
+.cityimage{
+    width: 550px;
+    height:300px;
+}
+@media screen and (max-width: 700px) {
+    h2{
+        color:blue;
+    }
+    h3{
+        color:white;
+    }
+    p{
+        color: gray;
+    }
+    .text{
+        background-color:white;
+        display: grid;
+        grid-template-rows: 10fr 10fr;
+    }
+    .grid{
+        background-color: blue;
+        display: grid;
+        grid-template-columns: 10fr 10fr 10fr;
+    }
+    body{
+        text-align: center;
+    }
+    .cityimage{
+        width: 250px;
+        height:180px;
+    }
+}
