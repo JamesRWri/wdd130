@@ -16,13 +16,14 @@ p{
     background-color: blue;
     display: grid;
     grid-template-columns: 10fr 10fr 10fr;
+    width: 100%;
 }
 body{
     text-align: center;
 }
 .cityimage{
-    width: 550px;
-    height:300px;
+    width:100%;
+    height: 500px;
 }
 @media screen and (max-width: 700px) {
     h2{
